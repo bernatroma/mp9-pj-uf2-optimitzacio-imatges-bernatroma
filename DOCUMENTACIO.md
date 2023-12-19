@@ -1,4 +1,4 @@
-## Documentació
+## Documentació (Extensio del projecte 1)
 
 ### 1. Header i Footer
 - Els canvis en el header, han set rempleçar el nom que anterior posava "Cursos Tecnologics" per el logo de la empresa.
