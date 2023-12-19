@@ -46,3 +46,5 @@ També he retellat una imatge ja que el mé important era en el centre de l'imat
 També he baixat la qualitat fins al 70% en la foto del curs especific, i en el 58% en el logo posat al about i al header
 
 Amb tot aixo, s'ha intentat buscar la millor relació qualitat - pes per aconseguir una pagina web més lleugera i que carregui més rapid sense perdre qualitat en les imatges.
+
+Per resaltar una decisió presa, mostrare la rao per la qual no he utilitzat sharp per baixar la qualitat de les imatges. La rao és que al tenir ja les imatges modificades en el moment de descubrir sharp, no he volgut tornar a modificar les imatges ja que aquestes ja estaven modificades. Pero si hagues de tornar a començar el projecte, utilitzaria sharp per baixar la qualitat i canviar el format de les imatges ja que es molt mes facil i rapit que fer-ho manualment.  
