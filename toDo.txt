@@ -1,0 +1,3 @@
+- Crop about image and create with less resolution
+- Canviar format imatges
+- 
