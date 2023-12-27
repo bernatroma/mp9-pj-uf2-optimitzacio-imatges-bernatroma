@@ -31,6 +31,10 @@ Imatges Modificades/Afegides:
 
 ![Alt text](image-6.png)
 
+**python.webp**: Imatge modificada pasada de .png a .webp perquè és un format més lleuger. Amb això hem passat de 26 kB kB a 21.8 kB.
+
+**python-Petit.webp**: Imatge creada en format .webp per quan la resolucio de pantalla sigui molt petita, així no es veu la imatge molt gran.
+
 ### 4. Animacions
 - S'ha creat una animació molt basica en el botó del index.html:
 
@@ -48,3 +52,4 @@ També he baixat la qualitat fins al 70% en la foto del curs especific, i en el 
 Amb tot aixo, s'ha intentat buscar la millor relació qualitat - pes per aconseguir una pagina web més lleugera i que carregui més rapid sense perdre qualitat en les imatges.
 
 Per resaltar una decisió presa, mostrare la rao per la qual no he utilitzat sharp per baixar la qualitat de les imatges. La rao és que al tenir ja les imatges modificades en el moment de descubrir sharp, no he volgut tornar a modificar les imatges ja que aquestes ja estaven modificades. Pero si hagues de tornar a començar el projecte, utilitzaria sharp per baixar la qualitat i canviar el format de les imatges ja que es molt mes facil i rapit que fer-ho manualment.  
+

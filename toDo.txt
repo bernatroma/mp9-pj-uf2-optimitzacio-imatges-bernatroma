@@ -1,2 +1,2 @@
-- Crop about image and create with less resolution
-- Canviar format imatges
+- Add second course with new image (26kb initial)
+- change logo
